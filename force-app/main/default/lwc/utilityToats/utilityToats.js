@@ -10,4 +10,12 @@ export default class UtilityToats extends LightningElement {
             })
         );
     }
+    showSecondToastEvent(event){
+        this.dispatchEvent(
+            new ShowToastEvent({
+                title: 'New Success message!',
+                variant: 'Success'
+            })
+        );
+    }
 }
