@@ -12,8 +12,16 @@
     {
       "path": "force-app",
       "package": "Toast event 1.2",
-      "versionName": "ver 1.2",
-      "versionNumber": "1.2.0.NEXT",
+      "versionName": "ver 1.4",
+      "versionNumber": "1.4.0.NEXT",
+      "default": false,
+      "versionDescription": ""
+    },
+    {
+      "path": "force-app",
+      "package": "Utility Toast 1.4",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
       "default": false,
       "versionDescription": ""
     }
@@ -24,6 +32,7 @@
   "sourceApiVersion": "59.0",
   "packageAliases": {
     "Utility Toast": "0HoQy0000000BrVKAU",
-    "Toast event 1.2": "0HoQy0000000C1BKAU"
+    "Toast event 1.2": "0HoQy0000000C1BKAU",
+    "Utility Toast 1.4": "0HoQy0000000C4PKAU"
   }
 }
