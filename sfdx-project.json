@@ -8,6 +8,22 @@
       "versionNumber": "1.1.0.NEXT",
       "versionDescription": "",
       "definitionFile": "config/project-scratch-def.json"
+    },
+    {
+      "path": "force-app",
+      "package": "Toast event 1.2",
+      "versionName": "ver 1.4",
+      "versionNumber": "1.4.0.NEXT",
+      "default": false,
+      "versionDescription": ""
+    },
+    {
+      "path": "force-app",
+      "package": "Utility Toast 1.4",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "default": false,
+      "versionDescription": ""
     }
   ],
   "name": "Test Package",
@@ -15,6 +31,8 @@
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "59.0",
   "packageAliases": {
-    "Utility Toast": "0HoQy0000000BrVKAU"
+    "Utility Toast": "0HoQy0000000BrVKAU",
+    "Toast event 1.2": "0HoQy0000000C1BKAU",
+    "Utility Toast 1.4": "0HoQy0000000C4PKAU"
   }
 }
